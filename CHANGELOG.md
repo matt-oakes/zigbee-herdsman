@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.55.2](https://github.com/Koenkk/zigbee-herdsman/compare/v0.55.1...v0.55.2) (2024-07-22)
+
+
+### Bug Fixes
+
+* **ignore:** Remove some unecessary string concatenations ([557ec54](https://github.com/Koenkk/zigbee-herdsman/commit/557ec54b89c1ec6f6a209726473267163bd44ee3))
+
 ## [0.55.1](https://github.com/Koenkk/zigbee-herdsman/compare/v0.55.0...v0.55.1) (2024-07-21)
 
 
